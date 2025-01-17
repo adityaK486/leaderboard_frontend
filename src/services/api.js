@@ -2,7 +2,7 @@ import axios from 'axios';
 
 
 const api = axios.create({
-  baseURL: 'https://leaderboard-backend-53cblnfcc-adityas-projects-1ba7f9f2.vercel.app/',
+  baseURL: 'https://leaderboard-backend-swart.vercel.app/',
  
 });
 
